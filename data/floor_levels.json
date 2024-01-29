@@ -1,0 +1,86 @@
+[
+    {
+        "level": 1,
+        "gold": 50
+    },
+    {
+        "level": 2,
+        "gold": 55
+    },
+    {
+        "level": 3,
+        "gold": 60
+    },
+    {
+        "level": 4,
+        "gold": 65
+    },
+    {
+        "level": 5,
+        "gold": 70
+    },
+    {
+        "level": 6,
+        "gold": 75
+    },
+    {
+        "level": 7,
+        "gold": 80
+    },
+    {
+        "level": 8,
+        "gold": 85
+    },
+    {
+        "level": 9,
+        "gold": 90
+    },
+    {
+        "level": 10,
+        "gold": 95
+    },
+    {
+        "level": 11,
+        "gold": 100
+    },
+    {
+        "level": 12,
+        "gold": 105
+    },
+    {
+        "level": 13,
+        "gold": 110
+    },
+    {
+        "level": 14,
+        "gold": 115
+    },
+    {
+        "level": 15,
+        "gold": 120
+    },
+    {
+        "level": 16,
+        "gold": 125
+    },
+    {
+        "level": 17,
+        "gold": 130
+    },
+    {
+        "level": 18,
+        "gold": 135
+    },
+    {
+        "level": 19,
+        "gold": 140
+    },
+    {
+        "level": 20,
+        "gold": 145
+    },
+    {
+        "level": 21,
+        "gold": 150
+    }
+]
